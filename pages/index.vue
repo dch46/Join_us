@@ -1,23 +1,13 @@
 <template>
   <main>
     <div class="intro">
-      <h1>Nuxt Toolbox</h1>
+      <h1>加入Wu 2022辅导员助理</h1>
       <p>
-        Hi 👋! This template gives you a
-        <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
+        你好 👋! 欢迎你加入Wu 2022辅导员助理团。你可以在
+        <a href="https://nuxtjs.org/">这里</a> 获取有关助理团
         <a href="https://www.netlify.com/products/functions/"
-          >Netlify Functions</a
-        >, <a href="https://www.netlify.com/products/forms/">Forms</a>, and
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
-      </p>
-
-      <p>
-        You can find the code for this project on GitHub at
-        <a href="https://github.com/netlify-templates/nuxt-toolbox"
-          >https://github.com/netlify-templates/nuxt-toolbox</a
-        >! Happy coding!
+          >的初步介绍和免费的培训知识</a
+        >。如果有兴趣，也欢迎你填写下面的表格向我们随意提问！
       </p>
     </div>
     <FeedbackForm />
